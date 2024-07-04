@@ -1,0 +1,1 @@
+import{j as s}from"./index-tKRtgB90.js";function n({cover:e,subtitle:l,title:t,style:r}){return s.jsxs("div",{className:"flex flex-col items-center rounded-2xl py-10",style:{...r},children:[s.jsx("div",{children:s.jsx("img",{src:e,alt:"cover"})}),s.jsx("span",{className:"text-3xl font-bold",children:t}),s.jsx("span",{className:"text-sm",children:l})]})}export{n as default};
