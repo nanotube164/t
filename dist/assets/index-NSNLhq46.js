@@ -1,0 +1,1 @@
+import{j as r}from"./index-tKRtgB90.js";import{T as t}from"./index-zycjR-EV.js";import"./CheckOutlined-g5MDPs9I.js";import"./EditOutlined-Z_c7PJKw.js";import"./styleChecker-ngeleDYd.js";import"./TextArea-hTdCA0yJ.js";import"./index-qxJHRbnC.js";function u(){return r.jsx(t.Title,{children:"Menu Level: 3b"})}export{u as default};

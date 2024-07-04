@@ -1,0 +1,1 @@
+import{b2 as u,b3 as i}from"./index-tKRtgB90.js";var o=u(function(r){return function(){return r}});const c=o;var m=i(function(r,e){var n=Number(e),t=0,a;if(n<0||isNaN(n))throw new RangeError("n must be a non-negative number");for(a=[];t<n;)a.push(r(t)),t+=1;return a});const v=m;var f=i(function(r,e){return v(c(r),e)});const p=f;export{p as r};

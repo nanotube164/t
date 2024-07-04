@@ -1,0 +1,1 @@
+import{u as t,j as s,W as r,aS as a}from"./index-tKRtgB90.js";function o({onClick:e}){const{t:n}=t();return s.jsx(r,{block:"",type:"link",onClick:e,children:s.jsxs("div",{className:"flex items-center justify-center hover:underline",children:[s.jsx(a,{}),s.jsx("span",{className:"text-sm",children:n("sys.login.backSignIn")})]})})}export{o as ReturnButton};
